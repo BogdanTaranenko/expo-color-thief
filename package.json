@@ -1,5 +1,5 @@
 {
-  "name": "@fytte/expo-color-thief",
+  "name": "@b.taranenko/expo-color-thief",
   "version": "0.0.1",
   "description": "Expo module for extracting dominant colors from images using ColorThief algorithm",
   "main": "build/index.js",
